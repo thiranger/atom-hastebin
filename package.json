@@ -1,12 +1,12 @@
 {
   "name": "hastebin",
   "main": "./lib/atom-hastebin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A package for sharing your code via hastebin.com",
   "keywords": [
-      "hastebin",
-      "pastebin",
-      "thiranger"
+    "hastebin",
+    "pastebin",
+    "thiranger"
   ],
   "activationCommands": {
     "atom-workspace": "atom-hastebin:share-code"
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
