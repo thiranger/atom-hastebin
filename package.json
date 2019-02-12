@@ -1,5 +1,5 @@
 {
-  "name": "atom-hastebin",
+  "name": "hastebin",
   "main": "./lib/atom-hastebin",
   "version": "0.0.1",
   "description": "A package for sharing your code via hastebin.com",
