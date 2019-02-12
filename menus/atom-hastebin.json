@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Share your code via hastebin",
+        "command": "atom-hastebin:share-code"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom Hastebin",
+          "submenu": [
+            {
+              "label": "Share your code",
+              "command": "atom-hastebin:share-code"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
