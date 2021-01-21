@@ -15,4 +15,4 @@ If you prefer installation via GUI, you can go to `Atom` > `Settings` > `Install
 Please update the [CHANGELOG.md](https://github.com/thiranger/atom-hastebin/blob/master/CHANGELOG.md) and submit a [pull request on GitHub](https://help.github.com/articles/using-pull-requests) when contributing.
 
 ## License
-language-nasmx86 is released under the [MIT](https://github.com/thiranger/atom-hastebin/blob/master/LICENSE.md) license.
+hastebin is released under the [MIT](https://github.com/thiranger/atom-hastebin/blob/master/LICENSE.md) license.
