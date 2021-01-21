@@ -6,7 +6,7 @@
   "keywords": [
     "hastebin",
     "pastebin",
-    "thiranger"
+    "share"
   ],
   "activationCommands": {
     "atom-workspace": "atom-hastebin:share-code"

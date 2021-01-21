@@ -1,9 +1,18 @@
-**Atom Hastebin**
+# hastebin package
 
-First of all this package was made for own use.
+Share your code via [hastebin](https://hastebin.com/). Press `ctrl+alt+s` while editing your code and package will copy the link to your clipboard.
 
-// but anyone can contact me via Telegram (@thiranger) or e-mail (s02180021@stud.cs.msu.ru)
+## Install
 
-This package has extremely low functionality, but it is also easy to use. In the process of editing your code, press the *ctrl+alt+s* combination to share it. If nothing happens, the package has done its job (nothing should distract you). The link with your code has already copied to your clipboard. Only in case of failure the package will show an alert with an error message.
+Just run the following command:
+```bash
+apm install hastebin
+```
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+If you prefer installation via GUI, you can go to `Atom` > `Settings` > `Install`, search for `hastebin` in Packages tab and install it.
+
+## Contributing
+Please update the [CHANGELOG.md](https://github.com/thiranger/atom-hastebin/blob/master/CHANGELOG.md) and submit a [pull request on GitHub](https://help.github.com/articles/using-pull-requests) when contributing.
+
+## License
+language-nasmx86 is released under the [MIT](https://github.com/thiranger/atom-hastebin/blob/master/LICENSE.md) license.
