@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Atom Hastebin",
+          "label": "Hastebin",
           "submenu": [
             {
               "label": "Share your code",

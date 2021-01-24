@@ -1,6 +1,6 @@
 # hastebin package
 
-Share your code via [hastebin](https://hastebin.com/). Press `ctrl+alt+s` while editing your code and package will copy the link to your clipboard.
+Share your code via [hastebin](https://hastebin.com/) by pressing `ctrl+alt+s` while editing your code and package will copy the link to your clipboard.
 
 ## Install
 
