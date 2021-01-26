@@ -12,7 +12,7 @@ apm install hastebin
 If you prefer installation via GUI, you can go to `Atom` > `Settings` > `Install`, search for `hastebin` in Packages tab and install it.
 
 ## Contributing
-Please update the [CHANGELOG.md](https://github.com/thiranger/atom-hastebin/blob/master/CHANGELOG.md) and submit a [pull request on GitHub](https://help.github.com/articles/using-pull-requests) when contributing.
+Please update the [CHANGELOG.md](CHANGELOG.md) and submit a [pull request on GitHub](https://help.github.com/articles/using-pull-requests) when contributing.
 
 ## License
-hastebin is released under the [MIT](https://github.com/thiranger/atom-hastebin/blob/master/LICENSE.md) license.
+hastebin is released under the [MIT](LICENSE.md) license.
